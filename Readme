@@ -1,0 +1,9 @@
+LilyTwinkle Protosnap
+
+Based on the LilyTwinkle board, the LilyTwinkle Protosnap
+includes everything needed to make a twinkling starscape.
+
+The board includes four LilyPad LED boards, a LilyTwinkle,
+and a coin cell holder with a switch on it. This git
+repository only includes the design files; the firmware
+can be found in the LilyTiny-LilyTwinkle repo.
