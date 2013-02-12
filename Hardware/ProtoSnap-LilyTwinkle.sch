@@ -8704,7 +8704,7 @@ Various fiducial points for machine vision alignment.</description>
 <text x="164.846" y="115.57" size="2.1844" layer="91">2</text>
 <text x="164.846" y="113.03" size="2.1844" layer="91">3</text>
 <text x="172.72" y="7.62" size="3.81" layer="94">Team SparkFun</text>
-<text x="239.268" y="6.858" size="3.81" layer="94">01</text>
+<text x="239.268" y="6.858" size="3.81" layer="94">10</text>
 </plain>
 <instances>
 <instance part="U1" gate="G$1" x="132.08" y="114.3"/>
