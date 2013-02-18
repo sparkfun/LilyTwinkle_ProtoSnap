@@ -8,7 +8,7 @@
 </settings>
 <grid distance="0.05" unitdist="inch" unit="inch" style="lines" multiple="1" display="yes" altdistance="0.005" altunitdist="inch" altunit="inch"/>
 <layers>
-<layer number="1" name="Top" color="4" fill="1" visible="no" active="yes"/>
+<layer number="1" name="Top" color="4" fill="1" visible="yes" active="yes"/>
 <layer number="2" name="Route2" color="1" fill="3" visible="no" active="yes"/>
 <layer number="15" name="Route15" color="4" fill="6" visible="no" active="yes"/>
 <layer number="16" name="Bottom" color="1" fill="1" visible="yes" active="yes"/>
@@ -16,9 +16,9 @@
 <layer number="18" name="Vias" color="2" fill="1" visible="yes" active="yes"/>
 <layer number="19" name="Unrouted" color="6" fill="1" visible="yes" active="yes"/>
 <layer number="20" name="Dimension" color="6" fill="1" visible="yes" active="yes"/>
-<layer number="21" name="tPlace" color="16" fill="1" visible="no" active="yes"/>
+<layer number="21" name="tPlace" color="16" fill="1" visible="yes" active="yes"/>
 <layer number="22" name="bPlace" color="14" fill="1" visible="yes" active="yes"/>
-<layer number="23" name="tOrigins" color="15" fill="1" visible="no" active="yes"/>
+<layer number="23" name="tOrigins" color="15" fill="1" visible="yes" active="yes"/>
 <layer number="24" name="bOrigins" color="15" fill="1" visible="yes" active="yes"/>
 <layer number="25" name="tNames" color="7" fill="1" visible="no" active="yes"/>
 <layer number="26" name="bNames" color="7" fill="1" visible="no" active="yes"/>
@@ -33,9 +33,9 @@
 <layer number="41" name="tRestrict" color="4" fill="10" visible="no" active="yes"/>
 <layer number="42" name="bRestrict" color="1" fill="10" visible="no" active="yes"/>
 <layer number="44" name="Drills" color="7" fill="1" visible="no" active="yes"/>
-<layer number="45" name="Holes" color="7" fill="1" visible="no" active="yes"/>
+<layer number="45" name="Holes" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="46" name="Milling" color="3" fill="1" visible="no" active="yes"/>
-<layer number="51" name="tDocu" color="6" fill="1" visible="no" active="yes"/>
+<layer number="51" name="tDocu" color="6" fill="1" visible="yes" active="yes"/>
 <layer number="52" name="bDocu" color="7" fill="1" visible="no" active="yes"/>
 <layer number="3" name="Route3" color="4" fill="3" visible="no" active="no"/>
 <layer number="4" name="Route4" color="1" fill="4" visible="no" active="no"/>
@@ -138,7 +138,7 @@
 <text x="41.7251" y="22.8697" size="1.016" layer="21" font="vector" ratio="15">0</text>
 <text x="49.3542" y="30.299" size="1.016" layer="21" font="vector" ratio="15">2</text>
 <text x="37.211" y="27.178" size="1.016" layer="21" font="vector" ratio="15">-</text>
-<text x="97.79" y="5.08" size="1.778" layer="27" font="vector" ratio="15">M. HORD</text>
+<text x="52.07" y="-8.89" size="1.778" layer="27" font="vector" ratio="15">M. HORD</text>
 <text x="6.477" y="35.814" size="2.54" layer="21" font="vector" ratio="15" rot="R180">+</text>
 <text x="4.953" y="19.558" size="2.54" layer="21" font="vector" ratio="15">-</text>
 <text x="28.448" y="33.401" size="2.54" layer="21" font="vector" ratio="15">+</text>
@@ -2237,9 +2237,9 @@
 <hole x="6.85" y="16.35" drill="0.508"/>
 <hole x="7.35" y="16" drill="0.508"/>
 <hole x="5.6" y="39.65" drill="0.508"/>
-<hole x="4.742" y="39.404" drill="0.508"/>
+<hole x="5.123" y="39.023" drill="0.508"/>
 <hole x="28.727" y="39.804" drill="0.508"/>
-<hole x="29.508" y="39.331" drill="0.508"/>
+<hole x="29.254" y="39.077" drill="0.508"/>
 <hole x="26.85" y="15.9" drill="0.508"/>
 <hole x="27.55" y="16.35" drill="0.508"/>
 <hole x="43.4" y="55.25" drill="0.508"/>
